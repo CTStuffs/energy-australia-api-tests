@@ -1,0 +1,12 @@
+{
+  "name": "energy-australia-api-tests",
+  "version": "1.0.0",
+  "description": "For the Integration QE role of EnergyAustralia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
